@@ -1,21 +1,21 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Abul Bashar</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Front End Developer | ReactJS Developer | MERN Stack Developer
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Front End Development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
+- 📫 How to reach me **webdeveloperbashar@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- ⚡ Fun fact **I can provide you with the right decision to earn success**
 
 ### Connect with me:
 
