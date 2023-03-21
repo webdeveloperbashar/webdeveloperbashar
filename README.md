@@ -38,7 +38,7 @@ Front End Developer | ReactJS Developer | MERN Stack Developer
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=webdeveloperbashar&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/webdeveloperbashar/github-readme-activity-graph)
+[![Bashar's github activity graph](https://activity-graph.herokuapp.com/graph?username=webdeveloperbashar&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/webdeveloperbashar/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
